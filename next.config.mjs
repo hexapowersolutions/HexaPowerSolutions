@@ -9,6 +9,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  output: 'export', 
+  basePath: '/HexaPowerSolutions',  // repo name for GitHub Pages
+  assetPrefix: '/HexaPowerSolutions/',
 }
 
 export default nextConfig
