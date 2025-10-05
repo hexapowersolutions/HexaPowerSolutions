@@ -10,7 +10,7 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export', 
-  basePath: '/HexaPowerSolutions',  // repo name for GitHub Pages
+  basePath: '/hexaPowerSolutions',  // repo name for GitHub Pages
   assetPrefix: '/HexaPowerSolutions/',
 }
 
